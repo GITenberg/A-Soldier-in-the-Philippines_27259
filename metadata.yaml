@@ -1,0 +1,26 @@
+_repo: A-Soldier-in-the-Philippines_27259
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freeman, Needom N.
+    gutenberg_agent_id: '32577'
+    url: http://www.gutenberg.org/2009/agents/32577
+description: ''
+gutenberg_issued: '2008-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27259'
+  lccn: '02003100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- History -- Philippine American War, 1899-1902 -- Personal
+  narratives'
+- !lcc 'DS'
+title: A Soldier in the Philippines
+url: http://www.gutenberg.org/ebooks/27259
